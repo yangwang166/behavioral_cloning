@@ -1,2 +1,6 @@
+.ipynb_checkpoints/
+data/
+new_data/
+new_data_reverse/
 misc/
 output/
