@@ -248,3 +248,5 @@ Then I increase speed to 20, and recorded the video as follow:
 
 * First Person View: https://youtu.be/c2sOITDiteA
 * Third Person View: https://youtu.be/xkVOUPdo57c
+
+I have also tried speed 30, it still can keep car in on the track, but not stable as speed 20, sometime it weave between left and right edge.
