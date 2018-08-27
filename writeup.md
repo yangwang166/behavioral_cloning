@@ -18,14 +18,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: http://chuantu.biz/t6/349/1532793242x-1404829175.png "Model Summary"
-[image2]: http://chuantu.biz/t6/349/1532794089x-1404829175.jpg "Center"
-[image3]: http://chuantu.biz/t6/349/1532795040x-1404829175.jpg "Recovery Image 1"
-[image4]: http://chuantu.biz/t6/349/1532795061x-1404829175.jpg "Recovery Image 2"
-[image5]: http://chuantu.biz/t6/349/1532795078x-1404829175.jpg "Recovery Image 3"
-[image6]: http://chuantu.biz/t6/349/1532795514x-1404829175.png "Steering Angle Distribution"
-[image7]: http://chuantu.biz/t6/349/1532795709x-1404829175.png "Original Image"
-[image8]: http://chuantu.biz/t6/349/1532795744x-1404829175.png "Flipped Image"
+[image1]: images/model_summary.png "Model Summary"
+[image2]: images/center.jpg "Center"
+[image3]: images/recover1.jpg "Recovery Image 1"
+[image4]: images/recover2.jpg "Recovery Image 2"
+[image5]: images/recover3.jpg "Recovery Image 3"
+[image6]: images/distribution.png "Steering Angle Distribution"
+[image7]: images/original.png "Original Image"
+[image8]: images/filped.png "Flipped Image"
 
 
 ## Rubric Points
